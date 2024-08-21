@@ -1,0 +1,207 @@
+/* .row {
+  border: 1px solid black;
+}
+
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  border: 1px solid red;
+} */
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#home-header
+{
+    font-size: large; 
+    font-weight: 500;
+     color: #F7444E;
+     line-height: 1.5;
+     text-transform: uppercase;
+}
+#page-header
+{
+    font-size: large; 
+    font-weight: 500;
+     color: black;
+     line-height: 1.5; 
+     text-transform: uppercase;
+}
+#page-header:hover
+{
+    color: #F7444E;
+}
+#img-1-model
+{
+    background: none; 
+    border: none; 
+    border-radius: 0px;
+    /* font-size: xx-large; */
+position: relative;
+left: -120px;                
+}
+
+
+#Sale-Off
+{
+    font-weight: 700;
+     font-size: 64px; 
+      color: #F7444E;
+}
+
+#button-shop-now
+{
+    width: 150px;
+    border-radius: 0px;
+    color: white;
+    background-color: #F7444E;
+    border: none;
+}
+#button-shop-now:hover
+{
+    background-color: #D6D6D6;
+    color: #F7444E;
+    border: 1px solid #F7444E;
+
+}
+#Why-Shop-With-Us
+{
+    font-weight: 700;
+}
+#detail-box-1
+{
+     width: 350px;
+}
+
+#detail-box-2
+{
+    position: relative;
+left: 44px;
+     
+     width: 350px;
+}
+#detail-box-3
+{
+position: relative;
+left: 88px;
+     width: 350px;
+}
+#NewArrivals
+{
+    font-size: 54px;
+    font-weight: 600;
+    color: #002C3E;
+}
+#Men-shirt
+{
+    
+        font-weight: 700;
+}
+#Men-shirt-box-1
+{
+    width: 10rem; 
+    position: relative; 
+    left: 70px;
+    top: 10px;
+     border: none; 
+     background: none; 
+     cursor: pointer;
+}
+#image-menshirt-1
+{
+    height: 200px;
+}
+#image-menshirt-1:hover
+{
+    transform: scale(1.1);
+    transition: 0.5s; 
+}
+#Men-shirt-box
+{
+    width: 12rem; 
+    position: relative; 
+    left: 70px;
+    top: 10px;
+     border: none; 
+     background: none; 
+     cursor: pointer;
+     
+}
+#image-menshirt
+{
+    overflow: hidden;
+} 
+
+#image-menshirt:hover
+{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#button-buy-now
+{
+    width: 150px;
+    border-radius: 0px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+#button-buy-now:hover
+{
+    background-color: #F7F8F9;
+    color: black;
+    border: 1px solid black;
+
+}
+#button-view-all
+{
+    width: 210px;
+    border-radius: 0px;
+    color: white;
+    background-color: #F7444E;
+    border: none;
+}
+#button-view-all:hover
+{
+    background-color: white;
+    color: #F7444E;
+    border: 1px solid #F7444E;
+
+}
+#exampleFormControlInput1
+{
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+    height: 60px;
+    
+}
+#button-subscribe
+{
+    width: 210px;
+    border-radius: 20px;
+    color: white;
+    background-color: #F7444E;
+    border: none;
+}
+#button-subscribe:hover
+{
+    background-color: white;
+    color: #F7444E;
+    border: 1px solid #F7444E;
+
+}
+#list-footer
+{
+    color: white;
+    line-height: 2;
+}

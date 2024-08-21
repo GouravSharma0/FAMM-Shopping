@@ -1,0 +1,46 @@
+@media only screen and (max-width: 500px) {
+  #Sale-Off {
+    text-align: center;
+    font-size: 54px;
+  }
+  #Sale-Off-1 {
+    text-align: center;
+  }
+
+  #detail-box-3,
+  #detail-box-2,
+  #detail-box-1 {
+    position: relative;
+    left: 0px;
+    width: 100%;
+  }
+  #detail-box-2 {
+    position: relative;
+    top: 10px;
+  }
+  #detail-box-3 {
+    position: relative;
+    top: 20px;
+    height: 200px;
+  }
+  #NewArrivals {
+    font-size: 45px;
+    /* color: red; */
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  #Sale-Off {
+    text-align: center;
+    font-size: 44px;
+  }
+  #Sale-Off-1 {
+    text-align: center;
+  }
+}
+
+/* @media screen and (min-width: 330px) and (max-width: 499px) {
+  #NewArrivals {
+    font-size: 24px;
+  }
+} */
